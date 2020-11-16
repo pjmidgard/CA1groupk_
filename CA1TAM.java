@@ -37,16 +37,14 @@ System.out.println("@Authors: \nBaasanjargal\n Baasanjargal\n Edgard Pacheco\nJu
 
 
 }
+   
+  static void HW() {//Method 1: Hello World
 
-static void HW() {//Method 1: Hello World
-
-System.out.println("Hello World");
+System.out.println("Hello World" );
 
 
 
 }
-   
-
     
        public static int sum(int i1, int i2) {//Method 2: add two numbers
  
@@ -87,8 +85,7 @@ int result =i1*i2;
         
         
         Authors();
-        HW(); //Hello world
-        
+        HW();
         
         
         System.out.println("Please enter 1st number");
