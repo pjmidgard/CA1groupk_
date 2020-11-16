@@ -37,6 +37,14 @@ System.out.println("@Authors: \nBaasanjargal\n Baasanjargal\n Edgard Pacheco\nJu
 
 
 }
+
+static void HW() {//Method 1: Hello World
+
+System.out.println("Hello World");
+
+
+
+}
    
 
     
@@ -79,6 +87,7 @@ int result =i1*i2;
         
         
         Authors();
+        HW(); //Hello world
         
         
         
