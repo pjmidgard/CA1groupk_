@@ -66,7 +66,7 @@ public class CA1groupk {
    //Method 4: Multiply two numbers
     public static void main(String[] args) {
         // TODO code application logic here
-        //Class 0: Authors in the program.
+        //Class: Authors in the program.
         //I have created the CA1groupk main class in the program.
         //I have created the myObj.x. in the program.
         MyAuthors myObjl = new MyAuthors();
