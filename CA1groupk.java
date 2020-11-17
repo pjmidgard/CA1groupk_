@@ -5,7 +5,7 @@
 We enjoy writing programs.
 
 We write software that has:
-Method 0: Authors
+Class: Authors
 Method 1: print ‘Hello World’
 Method 2: add two numbers
 Method 3: subtract one number from another
@@ -66,7 +66,7 @@ public class CA1groupk {
    //Method 4: Multiply two numbers
     public static void main(String[] args) {
         // TODO code application logic here
-        //Method 0: Authors in the program.
+        //Class 0: Authors in the program.
         //I have created the CA1groupk main class in the program.
         //I have created the myObj.x. in the program.
         MyAuthors myObjl = new MyAuthors();
