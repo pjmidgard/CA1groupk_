@@ -22,19 +22,19 @@ import java.io.BufferedReader;//Public class BufferedReader extends Reader.
 import java.io.InputStreamReader;//An InputStreamReader is a bridge from byte streams to character streams.
 /**
  *
- * @author Angel2014fly
+ * @author Jurijus Pacalovas
  */
 public class CA1groupk {
 
     /**
      * @param args the command line arguments
      */
-    //I have made the method/function HW for Hello World.
+    //I have made the method HW for Hello World.
      static void HW() {
       System.out.println("Hello World!!!");
   }
     
-    //function Multiply  add one number from another in the program.
+    //method Multiply  add one number from another in the program.
      
      public static int addf(int n1, int n2) {
    int total;
@@ -43,7 +43,7 @@ public class CA1groupk {
     
    return total; 
 }
-     //function minus  one number from another in the program.
+     //metod minus  one number from another in the program.
      
    public static int subf(int n1, int n2) {
    int total;
@@ -52,7 +52,7 @@ public class CA1groupk {
     
    return total; 
 }
-      //functin Multiply one number from another in the program.
+      //method Multiply one number from another in the program.
     public static  int mulf(int n1, int n2) {
    int total;
    
@@ -95,18 +95,18 @@ public class CA1groupk {
    
            
             
-               total = addf(anum1, bnum2);//I have made the addf function for add the numbers in the program. 
+               total = addf(anum1, bnum2);//I have made the addf metod for add the numbers in the program. 
                
         System.out.println(" num1 " + anum1 + " and num2 " + bnum2 + " sum numbers " + total);//The program show numbers that is add.        
                
                
-               total = subf(anum1, bnum2);//I have made the subf function for substract the numbers in the program.
+               total = subf(anum1, bnum2);//I have made the subf method for substract the numbers in the program.
                
                
         
          System.out.println(" num1 " + anum1 + " and num2 " + bnum2 + " subtract numbers " + total); //The program show numbers that is substract.
          
-                total = mulf(anum1, bnum2);//I have made the mulf function for Multiply the numbers in the program.
+                total = mulf(anum1, bnum2);//I have made the mulf method for Multiply the numbers in the program.
                 
         
          System.out.println(" num1 " + anum1 + " and num2 " + bnum2 + " Multiply  numbers " + total); //The program show numbers that is Multiply. 
@@ -126,4 +126,4 @@ public class CA1groupk {
     }
     
     
-}
+
